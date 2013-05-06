@@ -36,7 +36,7 @@ class AdventureBase(str):
     self.onLock    = Event()
     self.onUnlock  = Event()
     
-  def echo(self, text, mapping=None, delay=0.00, newline=True):
+  def echo(self, text, mapping=None, delay=0.05, newline=True):
     if text:
       if mapping is None:
         mapping = self.__dict__
