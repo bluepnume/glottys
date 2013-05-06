@@ -1,0 +1,12 @@
+item.pyc
+maincharacter.pyc
+use.pyc
+__init__.pyc
+direction.pyc
+command.pyc
+game.pyc
+event.pyc
+utils.pyc
+area.pyc
+convo.pyc
+character.pyc
